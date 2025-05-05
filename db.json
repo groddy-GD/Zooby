@@ -1,0 +1,111 @@
+{
+    "instagramInsights": {
+      "followers": 200000,
+      "engagementRate": "10%",
+      "averageLikes": 200000,
+      "averageComments": 200000,
+      "demographics": {
+        "gender": {
+          "male": 23,
+          "female": 77
+        },
+        "ageDistribution": {
+          "13-17": 5,
+          "18-24": 40,
+          "25-34": 35,
+          "35-44": 15,
+          "45+": 5
+        }
+      },
+      "geography": {
+        "topCities": [
+          { "name": "Jaipur", "percentage": 100 },
+          { "name": "Hyderabad", "percentage": 80 },
+          { "name": "Delhi", "percentage": 60 },
+          { "name": "Mumbai", "percentage": 50 }
+        ],
+        "topCountries": [
+          { "name": "India", "percentage": 90 },
+          { "name": "USA", "percentage": 5 },
+          { "name": "UK", "percentage": 3 },
+          { "name": "Canada", "percentage": 2 }
+        ]
+      },
+      "trendingPosts": [
+        {
+          "id": 1,
+          "title": "Most Liked Post",
+          "likes": 200000,
+          "comments": 5000,
+          "shares": 1000,
+          "engagement": "10%",
+          "timeAgo": "2 months ago"
+        },
+        {
+          "id": 2,
+          "title": "Most Commented Post",
+          "likes": 150000,
+          "comments": 10000,
+          "shares": 2000,
+          "engagement": "12%",
+          "timeAgo": "1 month ago"
+        }
+      ]
+    },
+    "youtubeInsights": {
+      "subscribers": 500000,
+      "averageViews": 100000,
+      "averageLikes": 50000,
+      "averageComments": 8000,
+      "demographics": {
+        "gender": {
+          "male": 60,
+          "female": 40
+        },
+        "ageDistribution": {
+          "13-17": 10,
+          "18-24": 50,
+          "25-34": 25,
+          "35-44": 10,
+          "45+": 5
+        }
+      },
+      "geography": {
+        "topCities": [
+          { "name": "Bangalore", "percentage": 100 },
+          { "name": "Pune", "percentage": 80 },
+          { "name": "Chennai", "percentage": 60 },
+          { "name": "Delhi", "percentage": 50 }
+        ],
+        "topCountries": [
+          { "name": "India", "percentage": 85 },
+          { "name": "USA", "percentage": 7 },
+          { "name": "Australia", "percentage": 5 },
+          { "name": "UAE", "percentage": 3 }
+        ]
+      },
+      "trendingVideos": [
+        {
+          "id": 1,
+          "title": "Most Watched Video",
+          "views": 2000000,
+          "likes": 500000,
+          "comments": 50000,
+          "shares": 10000,
+          "engagement": "15%",
+          "timeAgo": "3 months ago"
+        },
+        {
+          "id": 2,
+          "title": "Most Liked Video",
+          "views": 1500000,
+          "likes": 700000,
+          "comments": 40000,
+          "shares": 12000,
+          "engagement": "18%",
+          "timeAgo": "1 month ago"
+        }
+      ]
+    }
+  }
+  
